@@ -1,0 +1,13 @@
+buatkan issue.md berisi planning untuk membuat ini : 
+
+buatkan instalasi laravel 11 di folder ini dengan dependency sebagai berikut :
+
+- livewire 4
+- tailwindcss
+- mysql
+
+jangan terlalu low level atau detail
+
+cukup instruksikan secara high level
+
+nanti document planningnya akan digunakan oleh programmer atau model lebih murah untuk di implementasikan
